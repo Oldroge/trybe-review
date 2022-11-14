@@ -1,0 +1,36 @@
+div:hover {
+    border: 2px solid rebeccapurple;
+    color: white;
+    width: 201px;
+}
+
+.primary {
+    background-color: red;
+}
+
+.secundary {
+    background-color: brown;
+}
+
+.complementary {
+    background-color: purple;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.dark {
+    background-color: black;
+}
+
+.bright {
+    background-color: rgb(255, 228, 187);
+}
+
+.secundary, .dark {
+    font-style: italic;
+}
+
+.primary, .secundary, .bright, .complementary, .dark {
+    width: 200px;
+}
