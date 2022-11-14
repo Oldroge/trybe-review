@@ -6,3 +6,7 @@ li:hover {
     background-color: blueviolet;
     color: white;
 }
+
+li:active {
+    color: blue;
+}
