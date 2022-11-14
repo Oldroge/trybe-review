@@ -27,6 +27,10 @@ div:hover {
     background-color: rgb(255, 228, 187);
 }
 
+.secundary, .dark {
+    font-style: italic;
+}
+
 .primary, .secundary, .bright, .complementary, .dark {
     width: 200px;
 }
