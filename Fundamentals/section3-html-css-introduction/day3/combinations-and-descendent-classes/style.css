@@ -34,3 +34,27 @@ li em {
 .rosa {
     color: pink;
 }
+
+.sof:hover {
+    color: orangered;
+}
+
+.w3school:hover {
+    color: green;
+}
+
+.mdn:hover {
+    color: black;
+}
+
+.devdocs:hover {
+    color: yellow;
+}
+
+.trybe:hover {
+    color: rgb(73, 238, 73);
+}
+
+ul li a:hover {
+    font-weight: 900;
+}
