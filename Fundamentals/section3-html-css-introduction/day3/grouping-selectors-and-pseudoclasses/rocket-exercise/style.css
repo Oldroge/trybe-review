@@ -1,6 +1,7 @@
 div:hover {
     border: 2px solid rebeccapurple;
     color: white;
+    width: 201px;
 }
 
 .primary {
@@ -21,4 +22,8 @@ div:hover {
 
 .bright {
     background-color: rgb(255, 228, 187);
+}
+
+.primary, .secundary, .bright, .complementary, .dark {
+    width: 200px;
 }
