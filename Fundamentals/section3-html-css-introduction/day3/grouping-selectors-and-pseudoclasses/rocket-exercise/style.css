@@ -14,6 +14,9 @@ div:hover {
 
 .complementary {
     background-color: purple;
+    height: 100px;
+    display: flex;
+    align-items: center;
 }
 
 .dark {
