@@ -1,0 +1,1 @@
+Neste exercício precisa ser desenvolvido uma página com HTML e CSS onde o resultado fique similar ao da imagem neste diretório.
