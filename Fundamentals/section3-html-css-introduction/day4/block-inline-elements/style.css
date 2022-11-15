@@ -39,3 +39,11 @@ ul {
   align-self: center;
   width: 300px;
 }
+
+#container-prizes {
+  text-align: center;
+}
+
+#container-prizes ul li {
+  display: inline;
+}
