@@ -39,10 +39,6 @@ nav ul li a {
   color: white;
 }
 
-section ul li a {
-    text-decoration: none;
-}
-
 nav {
   display: block;
   background-color: black;
@@ -75,11 +71,22 @@ p {
   margin: 0 auto;
 }
 
-h3,
-h4 {
-  margin-left: 20px;
-}
-
 #video-content {
     margin-top: 40px;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+article section ul li {
+    list-style: none;    
+}
+
+article section ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+article section ul li a:hover {
+    color: blue;
 }
