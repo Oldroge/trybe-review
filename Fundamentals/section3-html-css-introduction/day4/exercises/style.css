@@ -39,6 +39,10 @@ nav ul li a {
   color: white;
 }
 
+section ul li a {
+    text-decoration: none;
+}
+
 nav {
   display: block;
   background-color: black;
@@ -74,4 +78,8 @@ p {
 h3,
 h4 {
   margin-left: 20px;
+}
+
+#video-content {
+    margin-top: 40px;
 }
