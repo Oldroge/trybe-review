@@ -90,3 +90,14 @@ article section ul li a {
 article section ul li a:hover {
     color: blue;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    height: 40px;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 12px;
+}
