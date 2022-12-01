@@ -1,0 +1,9 @@
+Variáveis em javascript pode ser declarada de três formas: let, const e var.
+Var atualmente não é utilizado mais para construção de aplicação devido a seus problemas devido a escopo e a reatribuições as vezes sem querer.
+
+const geralmente utilizada para variáveis que não podem ter o seu valor alterado.
+
+let geralmente utilizado para variáveis que possívelmente irão alterar os valores.
+
+Qual a melhor maneira de se utilizá-las?
+Depende, a maneira que eu utilizo atualmente é declarando tudo com const, e caso em algum momento apresente algum erro de reatribuição eu corrigo para let
